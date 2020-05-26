@@ -6,6 +6,11 @@ body {
     color: #2F4F4F;
 }
 
+.jumbotron h1,
+.jumbotron p {
+    margin-left: 20px;
+}
+
 .navbar-inverse {
     background-color: #2F4F4F;
 }
